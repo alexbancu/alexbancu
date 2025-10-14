@@ -1,16 +1,21 @@
-## Hi there 👋
+# Alex Bancu
 
-<!--
-**alexbancu/alexbancu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer II at GrubHub. Based in Cluj-Napoca, Romania. 🇷🇴 
 
-Here are some ideas to get you started:
+I have been writing JavaScript professionally for 9+ years.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Work
+
+Currently building enterprise platform features at GrubHub (mesh networking, Amazon Business Prime integration, observability).
+
+**Stack**: React, TypeScript, Next.js, Kotlin, React Native
+
+## Projects
+
+- 🗓️ **calendar-ai**: Natural language calendar management (Python, Google Calendar API)
+- 🐦 **tweet-scraper**: Content analysis automation (Python)
+- 🏠 **imobiliare-scraper**: Real estate monitoring with Telegram alerts (Python)
+
+## Links
+
+[LinkedIn](https://linkedin.com/in/alexbancu) • [Substack](https://alexbancu.substack.com) • alexbancu.dev@gmail.com
