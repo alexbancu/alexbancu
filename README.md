@@ -1,21 +1,19 @@
 # Alex Bancu
 
-Software Engineer II at GrubHub. Based in Cluj-Napoca, Romania. 🇷🇴 
+Software engineer in Cluj-Napoca, Romania. 10 years of JavaScript and TypeScript, mostly React, with Node.js and React Native.
 
-I have been writing JavaScript professionally for 9+ years.
+## Now
 
-## Work
+Software Engineer at Grubhub, on the campus ordering platform. I work on offline mode for kiosks and kitchen screens, and on observability with Datadog and New Relic.
 
-Currently building enterprise platform features at GrubHub (mesh networking, Amazon Business Prime integration, observability).
+## Public projects
 
-**Stack**: React, TypeScript, Next.js, Kotlin, React Native
+- **[ai-email-composer](https://github.com/alexbancu/ai-email-composer)**: full-stack email app with LLM drafting and streaming (Next.js, Fastify)
+- **[ask-your-docs](https://github.com/alexbancu/ask-your-docs)**: RAG knowledge base with source citations and a React frontend
+- **[CalendarMate](https://github.com/alexbancu/CalendarMate)**: natural-language Google Calendar tool that I use from Claude Code
 
-## Projects
-
-- 🗓️ **calendar-ai**: Natural language calendar management (Python, Google Calendar API)
-- 🐦 **tweet-scraper**: Content analysis automation (Python)
-- 🏠 **imobiliare-scraper**: Real estate monitoring with Telegram alerts (Python)
+Most of my work is in private repositories.
 
 ## Links
 
-[LinkedIn](https://linkedin.com/in/alexbancu) • [Substack](https://alexbancu.substack.com) • alexbancu.dev@gmail.com
+[LinkedIn](https://www.linkedin.com/in/alexbancu) • alexbancu.dev@gmail.com
